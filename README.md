@@ -1,5 +1,7 @@
 # NatCookies
 
+[![iOS Build Verification](https://github.com/JhonHTipas21/Natcookies-App/actions/workflows/ios.yml/badge.svg)](https://github.com/JhonHTipas21/Natcookies-App/actions/workflows/ios.yml)
+
 NatCookies es una aplicacion nativa para iOS diseñada para la gestion operativa y financiera de reposterias artesanales. La herramienta permite controlar el inventario de productos, registrar transacciones de ingresos y gastos, administrar cuentas por cobrar o pagar (fiados), calcular ganancias netas disponibles en tiempo real y simular precios de venta mediante margenes operativos.
 
 ---
