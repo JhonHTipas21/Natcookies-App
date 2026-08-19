@@ -35,9 +35,7 @@ El proyecto ha sido refactorizado bajo una **Arquitectura Limpia (Clean Architec
 
 A continuacion se presenta el video explicativo con el flujo operativo completo de la aplicacion:
 
-<!-- Seccion de Video Demostrativo -->
-<!-- Reemplace la URL del atributo src con el enlace del video una vez cargado en GitHub -->
-<video src="https://github.com/JhonHTipas21/Natcookies-App/assets/demo.mp4" width="100%" controls></video>
+<video src="https://github.com/user-attachments/assets/4629ad8f-2b47-4e30-94c1-6a1836805f54" width="100%" controls></video>
 
 ---
 
